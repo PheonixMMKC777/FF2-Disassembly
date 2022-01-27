@@ -195,22 +195,22 @@
 
 ;; [$8A00 :: 0x28A10]
 
-.byte $4A,$A4,$A6,$AB,$FF,$99,$A4,$AF,$B2,$B2,$B0,$C0,$00,$92,$A9,$67
-.byte $45,$4B,$3F,$69,$3C,$48,$B6,$B2,$6C,$01,$18,$F2,$49,$53,$AA,$AC
-.byte $62,$49,$53,$9D,$B2,$A5,$B8,$AF,$BF,$01,$54,$DF,$AF,$4E,$4D,$A4
-.byte $A5,$63,$49,$53,$B0,$A4,$AE,$A8,$01,$B6,$B2,$6C,$FF,$B6,$B8,$B3
-.byte $42,$A5,$4C,$56,$B3,$44,$B6,$C0,$00,$A0,$AC,$46,$49,$54,$4C,$66
-.byte $FF,$A8,$62,$B5,$FF,$A8,$57,$C5,$00,$18,$F2,$C5,$FF,$A0,$55,$B7
-.byte $DE,$49,$55,$B7,$C5,$01,$8D,$B2,$5A,$5C,$4F,$B7,$6A,$B7,$4D,$AA
-.byte $B2,$B2,$A7,$C5,$00,$92,$B1,$FF,$99,$A4,$AF,$B2,$B2,$B0,$BF,$B7
-.byte $A4,$AE,$4D,$A4,$FF,$B6,$AB,$AC,$B3,$01,$60,$FF,$99,$5D,$B7,$C0
-.byte $8F,$B5,$B2,$B0,$49,$54,$4A,$BF,$54,$A4,$A7,$01,$B1,$51,$3D,$49
-.byte $53,$4A,$A4,$A6,$AB,$FF,$9C,$A4,$AF,$A4,$B0,$3F,$A7,$C0,$00,$A2
-.byte $45,$E4,$4D,$B6,$A8,$A8,$B1,$49,$54,$FF,$18,$F5,$01,$A9,$AF,$BC
-.byte $3C,$AA,$43,$A5,$45,$B7,$C5,$FF,$8A,$6B,$3F,$FF,$B1,$A4,$6C,$A7
-.byte $01,$8C,$AC,$48,$B3,$AC,$AF,$B2,$B7,$47,$58,$C0,$00,$92,$B7,$DE
-.byte $49,$54,$4C,$66,$B5,$61,$B5,$47,$BA,$AB,$B2,$E4,$A8,$01,$A6,$A4
-.byte $B8,$68,$4F,$3D,$4D,$A8,$BC,$4D,$5D,$FF,$18,$ED,$01,$18,$EF,$C4
+.byte $4A,$A4,$A6,$AB,$FF,$99,$A4,$AF,$B2,$B2,$B0,$C0,$00,$92,$A9,$67 ;<re>ach_Paloom.*If<_y>
+.byte $45,$4B,$3F,$69,$3C,$48,$B6,$B2,$6C,$01,$18,$F2,$49,$53,$AA,$AC ;<ou><_c><an><_f><in><d_>so<me><un><_t><o_>gi
+.byte $62,$49,$53,$9D,$B2,$A5,$B8,$AF,$BF,$01,$54,$DF,$AF,$4E,$4D,$A4 ;<ve><_t><o_>Tobul,<he><'l>l<_b><e_>a
+.byte $A5,$63,$49,$53,$B0,$A4,$AE,$A8,$01,$B6,$B2,$6C,$FF,$B6,$B8,$B3 ;b<le><_t><o_>makeso<me>_sup
+.byte $42,$A5,$4C,$56,$B3,$44,$B6,$C0,$00,$A0,$AC,$46,$49,$54,$4C,$66 ;<er>b<_w><ea>p<on>s.*Wi<ll><_t><he><_w><ar>
+.byte $FF,$A8,$62,$B5,$FF,$A8,$57,$C5,$00,$18,$F2,$C5,$FF,$A0,$55,$B7 ;_e<ve>r_e<nd>?*<un>?_W<ha>t
+.byte $DE,$49,$55,$B7,$C5,$01,$8D,$B2,$5A,$5C,$4F,$B7,$6A,$B7,$4D,$AA ;<'s><_t><ha>t?Do<es><_i><t_>t<as>t<e_>g
+.byte $B2,$B2,$A7,$C5,$00,$92,$B1,$FF,$99,$A4,$AF,$B2,$B2,$B0,$BF,$B7 ;ood?*In_Paloom,t
+.byte $A4,$AE,$4D,$A4,$FF,$B6,$AB,$AC,$B3,$01,$60,$FF,$99,$5D,$B7,$C0 ;ak<e_>a_ship<to>_P<of>t.
+.byte $8F,$B5,$B2,$B0,$49,$54,$4A,$BF,$54,$A4,$A7,$01,$B1,$51,$3D,$49 ;From<_t><he><re>,<he>adn<or><th><_t>
+.byte $53,$4A,$A4,$A6,$AB,$FF,$9C,$A4,$AF,$A4,$B0,$3F,$A7,$C0,$00,$A2 ;<o_><re>ach_Salam<an>d.*Y
+.byte $45,$E4,$4D,$B6,$A8,$A8,$B1,$49,$54,$FF,$18,$F5,$01,$A9,$AF,$BC ;<ou><`v><e_>seen<_t><he>_<e_>fly
+.byte $3C,$AA,$43,$A5,$45,$B7,$C5,$FF,$8A,$6B,$3F,$FF,$B1,$A4,$6C,$A7 ;<in>g<_a>b<ou>t?_A<_m><an>_na<me>d
+.byte $01,$8C,$AC,$48,$B3,$AC,$AF,$B2,$B7,$47,$58,$C0,$00,$92,$B7,$DE ;Ci<d_>pilot<s_><it>.*It<'s>
+.byte $49,$54,$4C,$66,$B5,$61,$B5,$47,$BA,$AB,$B2,$E4,$A8,$01,$A6,$A4 ;<_t><he><_w><ar>r<io>r<s_>who<`v>eca
+.byte $B8,$68,$4F,$3D,$4D,$A8,$BC,$4D,$5D,$FF,$18,$ED,$01,$18,$EF,$C4 ;u<gh><t_><th><e_>ey<e_><of>_<d_><su>!
 
 ;; [$8B00 :: 0x28B10]
 
@@ -670,22 +670,22 @@
 
 
 
-.byte $4D,$54,$66,$48,$5B,$51,$AC,$5A,$FF,$5D,$01,$A4,$FF,$AF,$A4,$AE
-.byte $4D,$3D,$52,$FF,$63,$A4,$A7,$47,$60,$FF,$91,$A8,$46,$C3,$01,$00
-.byte $9D,$54,$FF,$18,$F0,$4B,$3F,$FF,$AA,$53,$60,$01,$91,$A8,$46,$C4
-.byte $00,$9D,$54,$FF,$18,$F0,$DE,$FF,$B6,$45,$AF,$FF,$55,$B6,$01,$B5
-.byte $40,$A8,$B1,$C0,$00,$9D,$54,$4C,$51,$AF,$48,$40,$43,$4F,$58,$47
-.byte $A8,$57,$C3,$00,$98,$B2,$B2,$AB,$BF,$BA,$54,$4A,$67,$45,$4B,$B2
-.byte $6C,$50,$A9,$B5,$B2,$B0,$C5,$00,$98,$B2,$B2,$AB,$BF,$BA,$AB,$50
-.byte $BC,$45,$FF,$B1,$53,$BA,$56,$B5,$BC,$01,$18,$FE,$C5,$00,$A0,$A8
-.byte $E3,$4D,$4A,$B7,$A4,$AE,$3C,$AA,$FF,$8C,$6A,$B7,$63,$01,$18,$2F
-.byte $C4,$FF,$99,$B5,$3C,$A6,$4D,$18,$EB,$43,$57,$01,$18,$ED,$FF,$18
-.byte $EF,$FF,$55,$62,$01,$B3,$58,$A6,$54,$48,$A6,$A4,$B0,$B3,$FF,$B1
-.byte $56,$B5,$FF,$18,$2F,$C4,$00,$8C,$AB,$B2,$A6,$B2,$A5,$53,$64,$62
-.byte $5C,$B1,$49,$54,$69,$51,$5A,$B7,$01,$B6,$45,$3D,$FF,$5D,$FF,$94
-.byte $6A,$AB,$B8,$3F,$C0,$00,$92,$B7,$DE,$FF,$A8,$B0,$B3,$B7,$BC,$C0
-.byte $00,$A0,$A8,$E3,$4D,$3C,$B6,$AC,$59,$FF,$95,$A8,$B9,$AC,$52,$55
-.byte $B1,$DE,$01,$5B,$B2,$B0,$A4,$A6,$AB,$C3,$00,$95,$A8,$B9,$AC,$52
+.byte $4D,$54,$66,$48,$5B,$51,$AC,$5A,$FF,$5D,$01,$A4,$FF,$AF,$A4,$AE ;<e_><he><ar><d_><st><or>i<es>_<of>a_lak
+.byte $4D,$3D,$52,$FF,$63,$A4,$A7,$47,$60,$FF,$91,$A8,$46,$C3,$01,$00 ;<e_><th><at>_<le>ad<s_><to>_He<ll>..*
+.byte $9D,$54,$FF,$18,$F0,$4B,$3F,$FF,$AA,$53,$60,$01,$91,$A8,$46,$C4 ;T<he>_<|n><_c><an>_g<o_><to>He<ll>!		guessing n| = emporer??
+.byte $00,$9D,$54,$FF,$18,$F0,$DE,$FF,$B6,$45,$AF,$FF,$55,$B6,$01,$B5 ;*T<he>_<|n><'s>_s<ou>l_<ha>sr
+.byte $40,$A8,$B1,$C0,$00,$9D,$54,$4C,$51,$AF,$48,$40,$43,$4F,$58,$47 ;<is>en.*T<he><_w><or>l<d_><is><_a><t_><it><s_>
+.byte $A8,$57,$C3,$00,$98,$B2,$B2,$AB,$BF,$BA,$54,$4A,$67,$45,$4B,$B2 ;e<nd>..*Oooh,w<he><re><_y><ou><_c>o
+.byte $6C,$50,$A9,$B5,$B2,$B0,$C5,$00,$98,$B2,$B2,$AB,$BF,$BA,$AB,$50 ;<me><y_>from?*Oooh,wh<y_>
+.byte $BC,$45,$FF,$B1,$53,$BA,$56,$B5,$BC,$01,$18,$FE,$C5,$00,$A0,$A8 ;y<ou>_n<o_>w<ea>ry?*We
+.byte $E3,$4D,$4A,$B7,$A4,$AE,$3C,$AA,$FF,$8C,$6A,$B7,$63,$01,$18,$2F ;<><e_><re>tak<in>g_C<as>t<le>
+.byte $C4,$FF,$99,$B5,$3C,$A6,$4D,$18,$EB,$43,$57,$01,$18,$ED,$FF,$18 ;!_Pr<in>c<e_><zz><_a><nd><d_>_
+.byte $EF,$FF,$55,$62,$01,$B3,$58,$A6,$54,$48,$A6,$A4,$B0,$B3,$FF,$B1 ;<su>_<ha><ve>p<it>c<he><d_>camp_n
+.byte $56,$B5,$FF,$18,$2F,$C4,$00,$8C,$AB,$B2,$A6,$B2,$A5,$53,$64,$62 ;<ea>r_!*Chocob<o_><li><ve>
+.byte $5C,$B1,$49,$54,$69,$51,$5A,$B7,$01,$B6,$45,$3D,$FF,$5D,$FF,$94 ;<_i>n<_t><he><_f><or><es>ts<ou><th>_<of>_K
+.byte $6A,$AB,$B8,$3F,$C0,$00,$92,$B7,$DE,$FF,$A8,$B0,$B3,$B7,$BC,$C0 ;<as>hu<an>.*It<'s>_empty.
+.byte $00,$A0,$A8,$E3,$4D,$3C,$B6,$AC,$59,$FF,$95,$A8,$B9,$AC,$52,$55 ;*We<><e_><in>si<de>_Levi<at><ha>
+.byte $B1,$DE,$01,$5B,$B2,$B0,$A4,$A6,$AB,$C3,$00,$95,$A8,$B9,$AC,$52 ;n<'s><st>omach..*Levi<at>
 
 
 
